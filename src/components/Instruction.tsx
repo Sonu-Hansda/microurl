@@ -3,7 +3,7 @@ import featureImage from "../assets/feature.jpg";
 function Instruction() {
   return (
     <section className="flex flex-col-reverse lg:flex-row justify-center mx-4 mb-2 lg:mx-auto lg:mb-0">
-        <div className="flex flex-col justify-around lg:w-1/4">
+        <div className="flex flex-col justify-around lg:w-1/3 mb-4">
           <div className="bg-green-100 p-8 mb-2 lg:mb-0">
           <h2 className="text-2xl font-semibold underline pb-2">How does it work?</h2>
         <ul className="list-disc">
